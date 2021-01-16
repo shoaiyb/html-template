@@ -1,0 +1,8 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /CNAME
+Allow: /
+
+Sitemap: https://www.templass.ga/sitemap.xml
