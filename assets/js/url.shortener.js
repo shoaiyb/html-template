@@ -1,7 +1,7 @@
 // url shortener by shoaiyb sysa
 
 //<![CDATA[
-var key = window.location.href.split(“?go/”)[1].replace(“/”,””)
+var key = window.location.href.split(“go/”)[1].replace(“/”,””)
 var urls={
 ‘fb’:’https://www.facebook.com/realshoaiyb’,
 ‘ig’:’https://www.instagram.com/sysa_shoaiyb’,
