@@ -1,5 +1,3 @@
-<script language=’javascript’>
-
 // url shortener by shoaiyb sysa
 
 //<![CDATA[
@@ -18,4 +16,3 @@ document.write(“‘”+key+”‘ not found :(“);
 }
 }
 //]]>
-</script>
