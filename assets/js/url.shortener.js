@@ -1,6 +1,4 @@
 // url shortener by shoaiyb sysa
-
-//<![CDATA[
 var key = window.location.href.split(“go/”)[1].replace(“/”,””)
 var urls={
 ‘fb’:’https://www.facebook.com/realshoaiyb’,
@@ -15,4 +13,3 @@ window.location.href=urls[key]
 document.write(“‘”+key+”‘ not found :(“);
 }
 }
-//]]>
