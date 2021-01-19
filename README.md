@@ -2,8 +2,7 @@
 A free Open Source, fully responsive HTML5 + CSS3 static site template.
 
 # System Requirements
-[HTML](https://html.spec.whatwg.org)
-
+Templass doesn't currently use any server-side language, That makes it possible to be hoted anywhere, Including GitHub pages.
 
 # Developed by
 Templass was developed by shoaiyb sysa
