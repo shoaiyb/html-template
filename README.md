@@ -7,7 +7,7 @@ Templass was developed by shoaiyb sysa
 # Contribute
 Templass is an open source made by;
 - **html**
-- **css*
+- **css**
 - **scss**
 - **javascript**
 
