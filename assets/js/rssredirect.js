@@ -1,6 +1,3 @@
-// url shortener by shoaiyb sysa
-
-//<![CDATA[
 var key = window.location.href.split(“feed/”)[1].replace(“/”,””)
 var urls={
 ‘rss’:’https://templass.ga/sitemap.xml’,
@@ -15,4 +12,3 @@ window.location.href=urls[key]
 document.write(“‘”+key+”‘ not found :(“);
 }
 }
-//]]>
