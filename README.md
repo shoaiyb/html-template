@@ -27,4 +27,4 @@ If you enjoy Templass please consider telling a friend, setting it up for someon
 If you have any suggestions, ideas, or comments, or if you (gasp!) found a bug, join in the [contributors](https://templass.ga/contributors).
 
 # License
-Templass is free software, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="https://templass.ga/license">license</a>.
+Templass is free open source, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="https://templass.ga/license">license</a>.
