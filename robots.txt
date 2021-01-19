@@ -1,6 +1,6 @@
 User-agent: Mediapartners-Google
 Disallow: 
 User-agent: *
-Disallow: /CNAME
+Disallow: 
 
 Sitemap: https://www.templass.ga/sitemap.xml
