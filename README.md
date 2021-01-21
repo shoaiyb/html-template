@@ -18,7 +18,7 @@ That means, no matter how small knowledge of coding you qualify you can contribu
 To learn more about how you can contribute, Click [here](https://templass.ga/contribute/).
 
 # Contributors
-- [shoaiyb sysa](https://shoaiybsysa.ga)
+- [shoaiyb sysa](@shoaiyb)
 
 # Share the Love
 If you enjoy Templass please consider telling a friend, setting it up for someone less knowledgeable than yourself, or writing the author of a media article that overlooks us.
