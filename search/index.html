@@ -52,20 +52,15 @@
 							</section>
 
 					</div>
-				<style>
-					input[type=text] {
-  width: 130px;
-  -webkit-transition: width 0.4s ease-in-out;
-  transition: width 0.4s ease-in-out;
-}
-
-/* When the input field gets focus, change its width to 100% */
-input[type=text]:focus {
-  width: 100%;
-} 
-				</style>
+		
 					
-				<input type="text" name="search" placeholder="Search..">
+				<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 				<!-- Footer -->
 					<footer id="footer">
