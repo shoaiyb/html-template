@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: "new project"
 permalink: /new-project/
 ---
