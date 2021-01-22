@@ -84,14 +84,16 @@
 				<!-- Main -->
 					<div id="main">
 						<!-- markdown posts -->
-					
-				<ul>
+				
+				<section>
+					<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+						</section>
 
 						<!-- Featured Post
 							<article class="post featured">
